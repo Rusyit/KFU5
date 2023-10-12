@@ -1,0 +1,14 @@
+C:\Users\Huawei\Desktop\Tumakovdz6\bin\Debug\net7.0\Tumakovdz6.exe
+C:\Users\Huawei\Desktop\Tumakovdz6\bin\Debug\net7.0\Tumakovdz6.deps.json
+C:\Users\Huawei\Desktop\Tumakovdz6\bin\Debug\net7.0\Tumakovdz6.runtimeconfig.json
+C:\Users\Huawei\Desktop\Tumakovdz6\bin\Debug\net7.0\Tumakovdz6.dll
+C:\Users\Huawei\Desktop\Tumakovdz6\bin\Debug\net7.0\Tumakovdz6.pdb
+C:\Users\Huawei\Desktop\Tumakovdz6\obj\Debug\net7.0\Tumakovdz6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huawei\Desktop\Tumakovdz6\obj\Debug\net7.0\Tumakovdz6.AssemblyInfoInputs.cache
+C:\Users\Huawei\Desktop\Tumakovdz6\obj\Debug\net7.0\Tumakovdz6.AssemblyInfo.cs
+C:\Users\Huawei\Desktop\Tumakovdz6\obj\Debug\net7.0\Tumakovdz6.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\Desktop\Tumakovdz6\obj\Debug\net7.0\Tumakovdz6.dll
+C:\Users\Huawei\Desktop\Tumakovdz6\obj\Debug\net7.0\refint\Tumakovdz6.dll
+C:\Users\Huawei\Desktop\Tumakovdz6\obj\Debug\net7.0\Tumakovdz6.pdb
+C:\Users\Huawei\Desktop\Tumakovdz6\obj\Debug\net7.0\Tumakovdz6.genruntimeconfig.cache
+C:\Users\Huawei\Desktop\Tumakovdz6\obj\Debug\net7.0\ref\Tumakovdz6.dll
